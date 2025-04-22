@@ -58,7 +58,7 @@
     "ts-node": "^10.9.1",
     "uuid": "^3.4.0",
     "express-rate-limit": "^6.7.0",
-    "zxcvbn": "^4.4.0"  // Add this line
+    "zxcvbn": "^4.4.0"  // Add this line to your dependencies
   },
   "devDependencies": {
     "@types/node": "18.7.16",
