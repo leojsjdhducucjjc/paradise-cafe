@@ -57,7 +57,8 @@
     "tailwind-merge": "^1.6.1",
     "ts-node": "^10.9.1",
     "uuid": "^3.4.0",
-    "express-rate-limit": "^6.7.0"
+    "express-rate-limit": "^6.7.0",
+    "zxcvbn": "^4.4.0"  // Add this line
   },
   "devDependencies": {
     "@types/node": "18.7.16",
